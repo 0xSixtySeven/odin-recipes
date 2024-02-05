@@ -1,6 +1,5 @@
 body,
 html {
-
     height: 100%;
     width: auto;
     margin: 0;
@@ -13,7 +12,6 @@ html {
 
 
 body {
-
     background-image: url("./images/fernandoalonsorenault.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -34,7 +32,6 @@ body {
 }
 
 .container {
-
     text-align: center;
     display: flex;
     justify-content: flex-start;
@@ -53,7 +50,6 @@ a:visited {
 
 .driverlinks {
     background-image: url("./images/carbonfiber.jpg");
-
     height: 38%;
     background-color: rgb(80, 0, 0);
     text-align: center;
@@ -65,7 +61,6 @@ a:visited {
     flex-direction: column;
     justify-content: center;
     flex: none;
-
 }
 
 .driverslis {
@@ -83,7 +78,6 @@ li {
 a {
     text-decoration-line: none;
     text-align: center;
-
 }
 
 .description {
@@ -113,7 +107,6 @@ a {
 
 .footer {
     font-family: 'circuit', sans-serif;
-
     background-color: transparent;
     width: auto;
     margin: 0px;
